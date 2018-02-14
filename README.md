@@ -7,3 +7,5 @@ https://github.com/fredatgithub/CreateExcelFromXML
 
 https://github.com/fredatgithub/MyBitCoinWallet
 
+https://github.com/fredatgithub/BitCoinPrice
+
