@@ -9,3 +9,5 @@ https://github.com/fredatgithub/MyBitCoinWallet
 
 https://github.com/fredatgithub/BitCoinPrice
 
+https://github.com/fredatgithub/PoeticHelper
+
